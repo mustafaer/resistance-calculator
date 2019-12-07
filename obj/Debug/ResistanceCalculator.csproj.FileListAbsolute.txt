@@ -1,0 +1,8 @@
+C:\Users\mustafaer\Documents\Projects\resistance-calculator\ResistanceCalculator\bin\Debug\ResistanceCalculator.exe.config
+C:\Users\mustafaer\Documents\Projects\resistance-calculator\ResistanceCalculator\bin\Debug\ResistanceCalculator.exe
+C:\Users\mustafaer\Documents\Projects\resistance-calculator\ResistanceCalculator\bin\Debug\ResistanceCalculator.pdb
+C:\Users\mustafaer\Documents\Projects\resistance-calculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.frm_resstanceCalculator.resources
+C:\Users\mustafaer\Documents\Projects\resistance-calculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.Properties.Resources.resources
+C:\Users\mustafaer\Documents\Projects\resistance-calculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.csproj.GenerateResource.cache
+C:\Users\mustafaer\Documents\Projects\resistance-calculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.exe
+C:\Users\mustafaer\Documents\Projects\resistance-calculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.pdb
