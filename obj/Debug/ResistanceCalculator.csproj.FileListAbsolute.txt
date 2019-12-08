@@ -6,3 +6,4 @@ C:\Users\mustafaer\Documents\Projects\resistance-calculator\ResistanceCalculator
 C:\Users\mustafaer\Documents\Projects\resistance-calculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.csproj.GenerateResource.cache
 C:\Users\mustafaer\Documents\Projects\resistance-calculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.exe
 C:\Users\mustafaer\Documents\Projects\resistance-calculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.pdb
+C:\Users\mustafaer\Documents\Projects\resistance-calculator\ResistanceCalculator\obj\Debug\ResistanceCalculator.csprojAssemblyReference.cache

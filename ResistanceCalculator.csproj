@@ -65,6 +65,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -78,6 +79,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fa41d8476ebb5d898bd32f305883e1ce.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\five.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Resistor+Color+Code+Manufacturers+typically+use+a+color+band+system+known+as+the+resistor+color+code..jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
