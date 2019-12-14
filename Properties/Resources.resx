@@ -118,13 +118,16 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="fa41d8476ebb5d898bd32f305883e1ce" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\fa41d8476ebb5d898bd32f305883e1ce.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="five" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\five.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="fa41d8476ebb5d898bd32f305883e1ce" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fa41d8476ebb5d898bd32f305883e1ce.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Resistor+Color+Code+Manufacturers+typically+use+a+color+band+system+known+as+the+resistor+color+code." type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Resistor+Color+Code+Manufacturers+typically+use+a+color+band+system+known+as+the+resistor+color+code..jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="resistanceColorCodes" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\resistanceColorCodes.PNG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

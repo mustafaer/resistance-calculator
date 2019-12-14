@@ -83,6 +83,16 @@ namespace ResistanceCalculator.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap resistanceColorCodes {
+            get {
+                object obj = ResourceManager.GetObject("resistanceColorCodes", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Resistor_Color_Code_Manufacturers_typically_use_a_color_band_system_known_as_the_resistor_color_code_ {
             get {
                 object obj = ResourceManager.GetObject("Resistor+Color+Code+Manufacturers+typically+use+a+color+band+system+known+as+the+" +
